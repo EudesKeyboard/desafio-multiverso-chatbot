@@ -4,9 +4,9 @@
 1. Criar arquivo .env na raiz do projeto e adicionar as chaves de acesso enviadas por email
 
 # Environment variables
-WORKSPACE_ID=
-ASSISTANT_IAM_APIKEY=
-ASSISTANT_URL=
+WORKSPACE_ID=<br/>
+ASSISTANT_IAM_APIKEY=<br/>
+ASSISTANT_URL=<br/>
 
 ## Rodar localmente
 
